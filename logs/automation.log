@@ -1,0 +1,215 @@
+2026-08-02 13:02:46 INFO  AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2026-08-02 13:02:46 INFO  AccountRegistrationtTest:19 - Clicked on My Account 
+2026-08-02 13:02:46 INFO  AccountRegistrationtTest:22 - Clicked on Register 
+2026-08-02 13:02:47 INFO  AccountRegistrationtTest:27 - Provided First Name 
+2026-08-02 13:02:47 INFO  AccountRegistrationtTest:30 - Provided Last Name 
+2026-08-02 13:02:47 INFO  AccountRegistrationtTest:34 - Provided Email 
+2026-08-02 13:02:47 INFO  AccountRegistrationtTest:37 - Provided Telephone 
+2026-08-02 13:02:47 INFO  AccountRegistrationtTest:40 - Provided Password 
+2026-08-02 13:02:47 INFO  AccountRegistrationtTest:43 - Provided Confrmed Password 
+2026-08-02 13:02:48 INFO  AccountRegistrationtTest:46 - Set Privacy Policy 
+2026-08-02 13:02:49 INFO  AccountRegistrationtTest:49 - Clicked on Continue 
+2026-08-02 13:02:51 INFO  AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2026-08-02 13:04:24 INFO  AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2026-08-02 13:04:24 INFO  AccountRegistrationtTest:19 - Clicked on My Account 
+2026-08-02 13:04:25 INFO  AccountRegistrationtTest:22 - Clicked on Register 
+2026-08-02 13:04:25 INFO  AccountRegistrationtTest:27 - Provided First Name 
+2026-08-02 13:04:25 INFO  AccountRegistrationtTest:30 - Provided Last Name 
+2026-08-02 13:04:25 INFO  AccountRegistrationtTest:34 - Provided Email 
+2026-08-02 13:04:25 INFO  AccountRegistrationtTest:37 - Provided Telephone 
+2026-08-02 13:04:25 INFO  AccountRegistrationtTest:40 - Provided Password 
+2026-08-02 13:04:25 INFO  AccountRegistrationtTest:43 - Provided Confrmed Password 
+2026-08-02 13:04:25 INFO  AccountRegistrationtTest:46 - Set Privacy Policy 
+2026-08-02 13:04:26 INFO  AccountRegistrationtTest:49 - Clicked on Continue 
+2026-08-02 13:04:29 INFO  AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2026-08-02 13:04:30 INFO  LoginTest:16 - Starting TC_002_LoginTest
+2026-08-02 13:04:32 INFO  LoginTest:45 -  Finished TC_002_LoginTest
+2026-08-02 13:05:34 INFO  LoginTest:16 - Starting TC_002_LoginTest
+2026-08-02 13:05:36 INFO  LoginTest:45 -  Finished TC_002_LoginTest
+2026-08-02 13:19:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-08-02 13:19:35 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-08-02 13:19:35 INFO  LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2026-08-02 13:19:38 INFO  LoginDDT:77 - **** Finished TC_003_LoginDDT *****
+2026-08-02 13:19:38 INFO  LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2026-08-02 13:19:51 INFO  LoginDDT:77 - **** Finished TC_003_LoginDDT *****
+2026-08-02 13:19:51 INFO  LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2026-08-02 13:20:03 INFO  LoginDDT:77 - **** Finished TC_003_LoginDDT *****
+2026-08-02 13:20:03 INFO  LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2026-08-02 13:20:18 INFO  LoginDDT:77 - **** Finished TC_003_LoginDDT *****
+2026-08-02 13:20:18 INFO  LoginDDT:27 - **** Starting TC_003_LoginDDT *****
+2026-08-02 13:20:21 INFO  LoginDDT:77 - **** Finished TC_003_LoginDDT *****
+2026-08-02 13:26:06 INFO  AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2026-08-02 13:26:06 INFO  AccountRegistrationtTest:19 - Clicked on My Account 
+2026-08-02 13:26:06 INFO  AccountRegistrationtTest:22 - Clicked on Register 
+2026-08-02 13:26:07 INFO  AccountRegistrationtTest:27 - Provided First Name 
+2026-08-02 13:26:07 INFO  AccountRegistrationtTest:30 - Provided Last Name 
+2026-08-02 13:26:07 INFO  AccountRegistrationtTest:34 - Provided Email 
+2026-08-02 13:26:07 INFO  AccountRegistrationtTest:37 - Provided Telephone 
+2026-08-02 13:26:07 INFO  AccountRegistrationtTest:40 - Provided Password 
+2026-08-02 13:26:07 INFO  AccountRegistrationtTest:43 - Provided Confrmed Password 
+2026-08-02 13:26:07 INFO  AccountRegistrationtTest:46 - Set Privacy Policy 
+2026-08-02 13:26:11 INFO  AccountRegistrationtTest:49 - Clicked on Continue 
+2026-08-02 13:26:13 INFO  AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2026-08-02 13:43:50 INFO  AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2026-08-02 13:43:50 INFO  AccountRegistrationtTest:19 - Clicked on My Account 
+2026-08-02 13:43:51 INFO  AccountRegistrationtTest:22 - Clicked on Register 
+2026-08-02 13:43:51 INFO  AccountRegistrationtTest:27 - Provided First Name 
+2026-08-02 13:43:51 INFO  AccountRegistrationtTest:30 - Provided Last Name 
+2026-08-02 13:43:51 INFO  AccountRegistrationtTest:34 - Provided Email 
+2026-08-02 13:43:51 INFO  AccountRegistrationtTest:37 - Provided Telephone 
+2026-08-02 13:43:51 INFO  AccountRegistrationtTest:40 - Provided Password 
+2026-08-02 13:43:51 INFO  AccountRegistrationtTest:43 - Provided Confrmed Password 
+2026-08-02 13:43:52 INFO  AccountRegistrationtTest:46 - Set Privacy Policy 
+2026-08-02 13:43:53 INFO  AccountRegistrationtTest:49 - Clicked on Continue 
+2026-08-02 13:43:55 INFO  AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2026-08-02 13:43:59 INFO  LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2026-08-02 13:43:59 DEBUG LoginTest:18 - capturing application debug logs....
+2026-08-02 13:43:59 INFO  LoginTest:24 - clicked on myaccount link on the home page..
+2026-08-02 13:43:59 INFO  LoginTest:26 - clicked on login link under myaccount..
+2026-08-02 13:43:59 INFO  LoginTest:30 - Entering valid email and password..
+2026-08-02 13:44:00 INFO  LoginTest:34 - clicked on ligin button..
+2026-08-02 13:44:01 INFO  LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2026-08-02 13:45:09 INFO  AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2026-08-02 13:45:09 INFO  AccountRegistrationtTest:19 - Clicked on My Account 
+2026-08-02 13:45:09 INFO  AccountRegistrationtTest:22 - Clicked on Register 
+2026-08-02 13:45:09 INFO  AccountRegistrationtTest:27 - Provided First Name 
+2026-08-02 13:45:09 INFO  AccountRegistrationtTest:30 - Provided Last Name 
+2026-08-02 13:45:10 INFO  AccountRegistrationtTest:34 - Provided Email 
+2026-08-02 13:45:10 INFO  AccountRegistrationtTest:37 - Provided Telephone 
+2026-08-02 13:45:10 INFO  AccountRegistrationtTest:40 - Provided Password 
+2026-08-02 13:45:10 INFO  AccountRegistrationtTest:43 - Provided Confrmed Password 
+2026-08-02 13:45:10 INFO  AccountRegistrationtTest:46 - Set Privacy Policy 
+2026-08-02 13:45:12 INFO  AccountRegistrationtTest:49 - Clicked on Continue 
+2026-08-02 13:45:14 INFO  AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2026-08-02 13:45:16 INFO  LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2026-08-02 13:45:16 DEBUG LoginTest:18 - capturing application debug logs....
+2026-08-02 13:45:17 INFO  LoginTest:24 - clicked on myaccount link on the home page..
+2026-08-02 13:45:17 INFO  LoginTest:26 - clicked on login link under myaccount..
+2026-08-02 13:45:17 INFO  LoginTest:30 - Entering valid email and password..
+2026-08-02 13:45:19 INFO  LoginTest:34 - clicked on ligin button..
+2026-08-02 13:51:54 INFO  LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2026-08-02 13:51:54 DEBUG LoginTest:18 - capturing application debug logs....
+2026-08-02 13:51:54 INFO  LoginTest:24 - clicked on myaccount link on the home page..
+2026-08-02 13:51:54 INFO  LoginTest:26 - clicked on login link under myaccount..
+2026-08-02 13:51:54 INFO  LoginTest:30 - Entering valid email and password..
+2026-08-02 13:51:55 INFO  LoginTest:34 - clicked on ligin button..
+2026-08-02 13:53:09 INFO  LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2026-08-02 13:53:09 DEBUG LoginTest:18 - capturing application debug logs....
+2026-08-02 13:53:09 INFO  LoginTest:24 - clicked on myaccount link on the home page..
+2026-08-02 13:53:09 INFO  LoginTest:26 - clicked on login link under myaccount..
+2026-08-02 13:53:09 INFO  LoginTest:30 - Entering valid email and password..
+2026-08-02 13:53:10 INFO  LoginTest:34 - clicked on ligin button..
+2026-08-02 13:53:11 INFO  LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2026-08-02 13:54:21 INFO  LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2026-08-02 13:54:21 DEBUG LoginTest:18 - capturing application debug logs....
+2026-08-02 13:54:21 INFO  LoginTest:24 - clicked on myaccount link on the home page..
+2026-08-02 13:54:21 INFO  LoginTest:26 - clicked on login link under myaccount..
+2026-08-02 13:54:21 INFO  LoginTest:30 - Entering valid email and password..
+2026-08-02 13:54:22 INFO  LoginTest:34 - clicked on ligin button..
+2026-08-02 13:54:23 INFO  LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2026-08-02 23:08:32 INFO  AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2026-08-02 23:08:32 INFO  AccountRegistrationtTest:19 - Clicked on My Account 
+2026-08-02 23:08:33 INFO  AccountRegistrationtTest:22 - Clicked on Register 
+2026-08-02 23:08:33 INFO  AccountRegistrationtTest:27 - Provided First Name 
+2026-08-02 23:08:33 INFO  AccountRegistrationtTest:30 - Provided Last Name 
+2026-08-02 23:08:33 INFO  AccountRegistrationtTest:34 - Provided Email 
+2026-08-02 23:08:33 INFO  AccountRegistrationtTest:37 - Provided Telephone 
+2026-08-02 23:08:33 INFO  AccountRegistrationtTest:40 - Provided Password 
+2026-08-02 23:08:34 INFO  AccountRegistrationtTest:43 - Provided Confrmed Password 
+2026-08-02 23:08:34 INFO  AccountRegistrationtTest:46 - Set Privacy Policy 
+2026-08-02 23:08:35 INFO  AccountRegistrationtTest:49 - Clicked on Continue 
+2026-08-02 23:08:37 INFO  AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2026-08-02 23:08:41 INFO  LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2026-08-02 23:08:41 DEBUG LoginTest:18 - capturing application debug logs....
+2026-08-02 23:08:41 INFO  LoginTest:24 - clicked on myaccount link on the home page..
+2026-08-02 23:08:42 INFO  LoginTest:26 - clicked on login link under myaccount..
+2026-08-02 23:08:42 INFO  LoginTest:30 - Entering valid email and password..
+2026-08-02 23:08:43 INFO  LoginTest:34 - clicked on ligin button..
+2026-08-02 23:08:44 INFO  LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2026-08-02 23:17:46 INFO  AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2026-08-02 23:17:46 INFO  AccountRegistrationtTest:19 - Clicked on My Account 
+2026-08-02 23:17:46 INFO  AccountRegistrationtTest:22 - Clicked on Register 
+2026-08-02 23:17:46 INFO  AccountRegistrationtTest:27 - Provided First Name 
+2026-08-02 23:17:47 INFO  AccountRegistrationtTest:30 - Provided Last Name 
+2026-08-02 23:17:47 INFO  AccountRegistrationtTest:34 - Provided Email 
+2026-08-02 23:17:47 INFO  AccountRegistrationtTest:37 - Provided Telephone 
+2026-08-02 23:17:48 INFO  AccountRegistrationtTest:40 - Provided Password 
+2026-08-02 23:17:48 INFO  AccountRegistrationtTest:43 - Provided Confrmed Password 
+2026-08-02 23:17:48 INFO  AccountRegistrationtTest:46 - Set Privacy Policy 
+2026-08-02 23:17:49 INFO  AccountRegistrationtTest:49 - Clicked on Continue 
+2026-08-02 23:17:51 INFO  AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2026-08-02 23:17:54 INFO  LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2026-08-02 23:17:54 DEBUG LoginTest:18 - capturing application debug logs....
+2026-08-02 23:17:54 INFO  LoginTest:24 - clicked on myaccount link on the home page..
+2026-08-02 23:17:54 INFO  LoginTest:26 - clicked on login link under myaccount..
+2026-08-02 23:17:54 INFO  LoginTest:30 - Entering valid email and password..
+2026-08-02 23:17:56 INFO  LoginTest:34 - clicked on ligin button..
+2026-08-02 23:17:56 INFO  LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2026-08-02 23:21:20 INFO  AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2026-08-02 23:21:20 INFO  AccountRegistrationtTest:19 - Clicked on My Account 
+2026-08-02 23:21:20 INFO  AccountRegistrationtTest:22 - Clicked on Register 
+2026-08-02 23:21:20 INFO  AccountRegistrationtTest:27 - Provided First Name 
+2026-08-02 23:21:20 INFO  AccountRegistrationtTest:30 - Provided Last Name 
+2026-08-02 23:21:21 INFO  AccountRegistrationtTest:34 - Provided Email 
+2026-08-02 23:21:21 INFO  AccountRegistrationtTest:37 - Provided Telephone 
+2026-08-02 23:21:21 INFO  AccountRegistrationtTest:40 - Provided Password 
+2026-08-02 23:21:21 INFO  AccountRegistrationtTest:43 - Provided Confrmed Password 
+2026-08-02 23:21:21 INFO  AccountRegistrationtTest:46 - Set Privacy Policy 
+2026-08-02 23:21:23 INFO  AccountRegistrationtTest:49 - Clicked on Continue 
+2026-08-02 23:21:25 INFO  AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2026-08-02 23:21:27 INFO  LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2026-08-02 23:21:27 DEBUG LoginTest:18 - capturing application debug logs....
+2026-08-02 23:21:27 INFO  LoginTest:24 - clicked on myaccount link on the home page..
+2026-08-02 23:21:27 INFO  LoginTest:26 - clicked on login link under myaccount..
+2026-08-02 23:21:27 INFO  LoginTest:30 - Entering valid email and password..
+2026-08-02 23:21:28 INFO  LoginTest:34 - clicked on ligin button..
+2026-08-02 23:21:29 INFO  LoginTest:48 - **** Finished TC_002_LoginTest  ****
